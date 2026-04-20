@@ -63,24 +63,10 @@ Beverly:
 (text-style:"underline")[Do you leave or stay?]
 
 [[Leave ->Leave]] - [[Stay->Stay]]
-If leave: 
-> The smell is just unbearable. I should’ve just stayed at home. - You
-As you pack up your things, you overhear a couple talking about the lawn. 
-“I just wish the city would stop wasting its money. Who would want to spend time in a space that is right next to a landfill?” - Random woman
-END.
-If stay: 
->“Let’s just stay.” - You
-You set down the blanket on the lawn. In unspoken agreement, you and your friends eat your food as quickly as possible. 
-This lawn is really nice. I wish I could’ve enjoyed it more. - You
-Beverly takes out her phone. 
-“Oh, this explains things. Look, there is a landfill really close to here.” - Beverly
-You look at her phone and sigh. 
-Was it even worth it to stay?- You
-END.
 
 
 
-:: Leave {"position":"700,450","size":"100,100"}
+:: Leave {"position":"625,475","size":"100,100"}
 You:
 (The smell is just unbearable. I should’ve just stayed at home.)
 -
@@ -145,7 +131,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Stay {"position":"825,450","size":"100,100"}
+:: Stay {"position":"800,475","size":"100,100"}
 You:
 “Let’s just stay.”
 -
