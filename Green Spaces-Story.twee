@@ -1,0 +1,94 @@
+:: StoryTitle
+Green Spaces
+
+
+:: StoryData
+{
+  "ifid": "86FBFB9F-DFA2-422D-8352-DDC12111AEB1",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "AGA-LWpos/pov",
+  "zoom": 1
+}
+
+
+:: AGA-LWpos/pov {"position":"650,250","size":"100,100"}
+''Liam'':
+“Mommmm can we pleaseeee go outside? I’m sooo booooored!” 
+-
+You turn around to see your two children, Sam and Liam, behind you.
+-
+''Sam'':
+“I promise we’ll be good!”
+-
+''You'':
+//(Didn’t they just upgrade that preserve nearby?)//
+-
+''You'':
+“Okay, but Mommy gets to decide where we go.”
+-
+You round them up into the car and go to the preserve. Once you arrive, there are 3 paths. The left path appears to lead to a cove, the middle path appears to be an easy path, and the right path looks more difficult.
+-
+''Sam:''
+“ Let’s go to the left.”
+-
+''Liam:''
+“But, I want to go on the right path!” 
+-
+(text-style:"underline")[What path do you choose?]
+
+[[Left Path->Left Path]] - [[Middle Path->Middle Path]] - [[Right Path->Right Path]]
+
+
+:: Left Path {"position":"525,425","size":"100,100"}
+You: 
+“Let’s go down the left path!”
+-
+You walk past many Ashe Juniper trees.
+-
+Liam:
+“Mommy, do you see that? What is it?”
+-
+Your youngest points to a bird in a tree.
+-
+[[Look at it. ->Look at it]]
+
+
+
+:: Look at it {"position":"650,650","size":"100,100"}
+You: 
+“It’s a Golden Cheek Warbler!”
+
+It is a species that is highly endangered because of the rapid urban expansion. It relies on the Ashe Juniper tree for nesting materials.
+
+
+
+:: Middle Path {"position":"650,425","size":"100,100"}
+You: 
+“Let’s go down the middle path!”. 
+-
+You walk past many Ashe Juniper trees.
+-
+Liam:
+“Mommy, do you see that? What is it?”
+-
+Your youngest points to a bird in a tree.
+-
+[[Look at it. ->Look at it]]
+
+
+
+:: Right Path {"position":"800,425","size":"100,100"}
+You: 
+“Let’s go down the right path!”. 
+-
+You walk past many Ashe Juniper trees.
+-
+Liam:
+“Mommy, do you see that? What is it?”
+-
+Your youngest points to a bird in a tree.
+-
+[[Look at it. ->Look at it]]
+
+
