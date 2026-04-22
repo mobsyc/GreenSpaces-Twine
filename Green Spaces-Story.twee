@@ -104,6 +104,17 @@ You round them up into the car and go to the preserve. Once you arrive, there ar
 [[Left Path->Left Path]] - [[Middle Path->Middle Path]] - [[Right Path->Right Path]]
 
 
+:: Abstain {"position":"900,150","size":"100,100"}
+You nod your head, to keep face.
+-
+You:
+(Clearly, Lisa and I don’t see eye to eye on things like this.)
+-
+You try to enjoy the rest of the night, but it’s hard to ignore the difference in you and Lisa’s beliefs. You go home, feeling like you lost a friend.
+-
+
+
+
 :: Bike1 {"position":"400,175","size":"100,100"}
 You:
 (We haven’t used our bikes in a while.)
@@ -306,6 +317,18 @@ Lisa:
 
 
 
+:: Join {"position":"850,150","size":"100,100"}
+You:
+“I would do the same, its important to protect your community.”
+-
+Lisa smiles. You enjoy the rest of the night and go home. 
+-
+You:
+(I’m lucky to have a friend like Lisa.)
+-
+
+
+
 :: Leave {"position":"250,75","size":"100,100"}
 You:
 (The smell is just unbearable. I should’ve just stayed at home.)
@@ -340,6 +363,107 @@ It is a species that is highly endangered because of the rapid urban expansion. 
 -
 
 
+:: MO-EA-EAPov {"position":"975,75","size":"100,100"}
+You:
+“Mom, do you pay attention to the news?”
+-
+Mom:
+“Of course. Why are you asking?”
+-
+You:
+“It’s for a class. I have to write a report on a news story from my community.”
+-
+Mom:
+“Oh, thats easy. The protest they did to stop the construction of a Tesla factory in East Austin. The city actually listened this time.”
+-
+You:
+“Do they usually not work?”
+-
+Mom:
+“Not for communities like ours, but sometimes we get a win.”
+-
+You:
+“I didn’t know you were so into politics.”
+-
+Mom:
+“Of course I am. We have to fight for ourselves.”
+-
+You:
+(I haven’t given it much thought before. Maybe I should be more interested in my community.)
+-
+Do you want to become more active in your community?
+[[Yes->Yes1]] - [[No->No1]]
+
+
+:: MO-LW-LWPOV {"position":"875,75","size":"100,100"}
+You:
+“Babe, are you almost ready? We don’t want to be late to Lisa’s birthday dinner.” 
+-
+Husband:
+“Just finishing up.”
+- 
+Your husband steps out of the bathroom.
+-
+-
+You:
+“Okay, let’s go. Goodbye, my little ones, we love you! Don’t give the babysitter a hard time.”
+-
+You give them a kiss on the cheek and leave. You drive to East Austin, where your friend, Lisa lives. You arrive and knock on the door. 
+-
+Lisa:
+“Diana! You made it!”
+-
+You and Lisa hug.
+-
+You:
+“Happy Birthday!”
+-
+You:
+“We found a baby sitter super last minute.”
+-
+Lisa:
+“I’m so happy you did. I’ve missed you so much.”
+-
+You:
+“I’ve missed you too. Oh, and you remember my husband.”
+-
+Lisa:
+“Of course.”
+-
+The two greet each other. 
+-
+Lisa:
+“Please, come in. We have to catch up.”
+-
+You enter and have a great time at her dinner. 
+-
+You:
+(I’ve missed Lisa. I wish she lived closer.)
+-
+You see a newspaper headline talking about the protests to keep tesla out of East Austin. You point at the newspaper.
+-
+You:
+“Lisa, were you here for this?”
+-
+Lisa:
+“Yes, I was! I’m so thankful it worked out. I love it over here, but I don’t know how I’d feel about living next door to a Tesla factory. Especially, with the kids.”
+-
+You:
+“Oh, I can imagine.”
+-
+Lisa:
+“I wish I could’ve joined the protest that day, but I one of the little ones was sick.”
+-
+You:
+“You wanted to join?”
+-
+Lisa: 
+“Of course, wouldn’t you do the same?”
+-
+What would you do?
+[[Join->Join]] - [[Abstain->Abstain]]
+
+
 :: Middle Path {"position":"150,200","size":"100,100"}
 You: 
 “Let’s go down the middle path!”. 
@@ -368,6 +492,18 @@ It is an American Robin. Most commonly seen in lawns, gardens, and parks. These 
 -
 You:
 (Nature is so beautiful. I should come here more often!)
+-
+
+
+
+:: No1 {"position":"1025,175","size":"100,100"}
+You:
+(That’s too much work for a teenage girl. Maybe when I’m older, I’ll care more.)
+-
+You:
+“Thanks, Mom!”
+-
+You go back to your room and finish your paper.
 -
 
 
@@ -402,26 +538,45 @@ Your youngest points to a bird in a tree.
 
 :: Start {"position":"500,0","size":"100,100"}
 News reporter:
-“Right now, I am standing in East Austin, known for its diverse and rich culture, shaped by the Black and Hispanic communities. But why is this culture so prominent in East Austin? To answer this question, we must go back nearly 100 years.”
- “In 1928, city officials drafted the 1928 Master Plan. This plan allowed for the creation of a “Negro District” in East Austin. This district enabled the government to section off a part of the city (just east of I-35), making it the only area “where African-Americans could access schools and other public services”. This plan also caused the district to “have the city’s weakest zoning restrictions, allowing the development of ‘a number of slightly objectionable industrial uses,’” within the limits of the newly created minority community”.”
-
-
+“Right now, I am standing in East Austin, known for its diverse and rich culture, shaped by the Black and Hispanic communities."
+-
+News reporter:
+"But why is this culture so prominent in East Austin? To answer this question, we must go back nearly 100 years.”
+-
+News reporter:
+"“In 1928, city officials drafted the 1928 Master Plan. This plan allowed for the creation of a “Negro District” in East Austin."
+-
+News reporter:
+"This district enabled the government to section off a part of the city (just east of I-35), making it the only area “where African-Americans could access schools and other public services”. "
+-
+News reporter:
+"This plan also caused the district to “have the city’s weakest zoning restrictions, allowing the development of ‘a number of slightly objectionable industrial uses,’” within the limits of the newly created minority community”.”
+-
+-
+-
 A Greener Austin! LW
 City buys Lakeway Ranch that will be used to expand preserve for the golden-cheeked warbler; remaining funds to be used to create a new grassy lawn in East Austin
 -
-[[LW POV+->AGALW-LWPOV]]
-[[EA POV- ->AGALW-EAPov]]
+[[LW POV (+)->AGALW-LWPOV]]
+[[EA POV (-) ->AGALW-EAPov]]
 
 A Greener Austin! EA
 City buys abandoned warehouse in East Austin with plans to turn it into a new park. 
 -
-[[LW POV+->AGAEA-LWPOV]]
-[[EA POV- ->AGAEA-EAPov]]
-
---
+[[LW POV(n)->AGAEA-LWPOV]]
+[[EA POV(+) ->AGAEA-EAPov]]
+-
+-
 Tesla’s Moving In LW
-[[LW POV+->TMI-LW-LWPOV]]
-[[EA POV- ->TMI-EA-EAPov]]
+Local East Austin parks to be used for new Tesla factories after Musk’s billion-dollar deal; City buys land in Lakeway 
+[[LW POV(+)->TMI-LW-LWPOV]]
+[[EA POV(-) ->TMI-EA-EAPov]]
+
+Musk OUT (one page) EA
+City rejects Elon Musk’s proposal for new Tesla factories in East Austin
+[[LW POV (n)->MO-LW-LWPOV]]
+[[EA POV (n) ->MO-EA-EAPov]]
+
 
 
 :: Stay {"position":"250,125","size":"100,100"}
@@ -583,5 +738,17 @@ You take out your pencil and journal and start scribbling away. As you write, a 
 -
 You:
 (I should come here more often! I am really able to focus.)
+-
+
+
+
+:: Yes1 {"position":"950,175","size":"100,100"}
+You:
+(It would be nice to see more change in the are. I should try to be more active.)
+-
+You:
+“Thanks, Mom!”
+-
+You go back to your room and research ways that teenagers can help their community and get more involved in local politics.
 -
 
