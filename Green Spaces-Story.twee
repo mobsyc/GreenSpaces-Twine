@@ -8,11 +8,25 @@ Green Spaces
   "format": "Harlowe",
   "format-version": "3.3.9",
   "start": "Start",
-  "zoom": 1
+  "zoom": 0.6
 }
 
 
-:: AGAEA-EAPov {"position":"425,100","size":"100,100"}
+:: AGA1 {"position":"225,150","size":"100,100"}
+Where would you like to go?
+[[Lakeway POV (+)->AGALW-LWPOV]]
+[[East Austin POV (-) ->AGALW-EAPov]]
+
+
+
+:: AGA2 {"position":"725,125","size":"100,100"}
+Where would you like to go?
+[[Lakeway POV(n)->AGAEA-LWPOV]]
+[[East Austin POV(+) ->AGAEA-EAPov]]
+
+
+
+:: AGAEA-EAPov {"position":"950,450","size":"100,100"}
 “God, I cannot focus!”
 -
 You drop your pencil.
@@ -30,7 +44,7 @@ You take out your phone to check. There is a new park, and its really close by. 
 [[Read ->Read1]] - [[Write->Write1]] -  [[Listen to Music->Music1]]
 
 
-:: AGAEA-LWPOV {"position":"375,100","size":"100,100"}
+:: AGAEA-LWPOV {"position":"800,450","size":"100,100"}
 Husband:
 “Don’t forget it’s your turn to take the kids to the park this week.”
 -
@@ -50,7 +64,7 @@ You:
 
 
 
-:: AGALW-EAPov {"position":"200,50","size":"100,100"}
+:: AGALW-EAPov {"position":"575,450","size":"100,100"}
 You are lying in your bed, staring at the ceiling. 
 -
 You:
@@ -76,7 +90,7 @@ Beverly:
 
 
 
-:: AGALW-LWPOV {"position":"175,50","size":"100,100"}
+:: AGALW-LWPOV {"position":"375,450","size":"100,100"}
 ''Liam'':
 “Mommmm can we pleaseeee go outside? I’m sooo booooored!” 
 -
@@ -104,7 +118,7 @@ You round them up into the car and go to the preserve. Once you arrive, there ar
 [[Left Path->Left Path]] - [[Middle Path->Middle Path]] - [[Right Path->Right Path]]
 
 
-:: Abstain {"position":"900,150","size":"100,100"}
+:: Abstain {"position":"775,1075","size":"100,100"}
 You nod your head, to keep face.
 -
 You:
@@ -115,7 +129,7 @@ You try to enjoy the rest of the night, but it’s hard to ignore the difference
 
 
 
-:: Bike1 {"position":"400,175","size":"100,100"}
+:: Bike1 {"position":"800,600","size":"100,100"}
 You:
 (We haven’t used our bikes in a while.)
 - 
@@ -129,6 +143,9 @@ Liam and Sam:
 -
 You grab all the bikes from the garage and have a nice bike ride to the park as the shade from the Oak trees keeps you cool. Once you reach the park, the kids are eager to run around and play together. You sit down on a bench and watch them.
 -
+Check out East Austin! If not visited already:
+[[EA POV(+) ->AGAEA-EAPov]]
+
 
 -New Nespaper!-
 
@@ -144,7 +161,7 @@ City rejects Elon Musk’s proposal for new Tesla factories in East Austin
 
 
 
-:: Bike2 {"position":"800,150","size":"100,100"}
+:: Bike2 {"position":"600,1125","size":"100,100"}
 You:
 “Mom, have you seen my bike?”
 -
@@ -176,7 +193,7 @@ You nod your head in agreement and lie down on the couch. Beverly brings you a b
 
 
 
-:: Bus {"position":"800,225","size":"100,100"}
+:: Bus {"position":"450,1125","size":"100,100"}
 You:
 (I am way too tired to bike over.)
 -
@@ -216,7 +233,7 @@ You spend the rest of the evening at Beverly’s house. You try to have fun, but
 
 
 
-:: Candles {"position":"675,175","size":"100,100"}
+:: Candles {"position":"175,1300","size":"100,100"}
 You:
 (She is always eyeing these candles.)
 -
@@ -261,7 +278,7 @@ Lisa:
 
 
 
-:: Drive1 {"position":"350,275","size":"100,100"}
+:: Drive1 {"position":"750,600","size":"100,100"}
 You:
 (If we take the car, I can go to the store after.)
 -
@@ -275,6 +292,9 @@ Liam and Sam:
 -
 You round them up into the car and drive to the park, where the kids run around and play together. You sit down on a bench and watch them.
 -
+Check out East Austin! If not visited already:
+[[EA POV(+) ->AGAEA-EAPov]]
+
 -New Nespaper!-
 
 Tesla’s Moving In 
@@ -288,7 +308,7 @@ City rejects Elon Musk’s proposal for new Tesla factories in East Austin
 [[EA POV (n) ->MO-EA-EAPov]]
 
 
-:: Flowers {"position":"675,150","size":"100,100"}
+:: Flowers {"position":"300,1325","size":"100,100"}
 You:
 (She has mentioned wanting to start a flower garden before.)
 You:
@@ -339,7 +359,7 @@ Lisa:
 
 
 
-:: Join {"position":"850,150","size":"100,100"}
+:: Join {"position":"700,1075","size":"100,100"}
 You:
 “I would do the same, its important to protect your community.”
 -
@@ -351,7 +371,7 @@ You:
 
 
 
-:: Leave {"position":"250,75","size":"100,100"}
+:: Leave {"position":"550,600","size":"100,100"}
 You:
 (The smell is just unbearable. I should’ve just stayed at home.)
 -
@@ -361,28 +381,8 @@ Random Woman:
 “I just wish the city would stop wasting its money. Who would want to spend time in a space that is right next to a landfill?”
 -
 
-
-:: Left Path {"position":"175,150","size":"100,100"}
-You: 
-“Let’s go down the left path!”
--
-You walk past many Ashe Juniper trees.
--
-Liam:
-“Mommy, do you see that? What is it?”
--
-Your youngest points to a bird in a tree.
--
-[[Look at it. ->Look at it]]
-
-
-
-:: Look at it {"position":"175,325","size":"100,100"}
-You: 
-“It’s a Golden Cheek Warbler!”
--
-It is a species that is highly endangered because of the rapid urban expansion. It relies on the Ashe Juniper tree for nesting materials.
--
+Check out LW POV:
+[[LW POV (+)->AGALW-LWPOV]]
 
 -New Nespaper!-
 
@@ -397,7 +397,44 @@ City rejects Elon Musk’s proposal for new Tesla factories in East Austin
 [[EA POV (n) ->MO-EA-EAPov]]
 
 
-:: MO-EA-EAPov {"position":"975,75","size":"100,100"}
+:: Left Path {"position":"225,600","size":"100,100"}
+You: 
+“Let’s go down the left path!”
+-
+You walk past many Ashe Juniper trees.
+-
+Liam:
+“Mommy, do you see that? What is it?”
+-
+Your youngest points to a bird in a tree.
+-
+[[Look at it. ->Look at it]]
+
+
+
+:: Look at it {"position":"325,700","size":"100,100"}
+You: 
+“It’s a Golden Cheek Warbler!”
+-
+It is a species that is highly endangered because of the rapid urban expansion. It relies on the Ashe Juniper tree for nesting materials.
+-
+Check out East Austin! If not visited already:
+[[EA POV (-) ->AGALW-EAPov]]
+
+-New Nespaper!-
+
+Tesla’s Moving In 
+Local East Austin parks to be used for new Tesla factories after Musk’s billion-dollar deal; City buys land in Lakeway 
+[[LW POV(+)->TMI-LW-LWPOV]]
+[[EA POV(-) ->TMI-EA-EAPov]]
+
+Musk OUT (one page) 
+City rejects Elon Musk’s proposal for new Tesla factories in East Austin
+[[LW POV (n)->MO-LW-LWPOV]]
+[[EA POV (n) ->MO-EA-EAPov]]
+
+
+:: MO-EA-EAPov {"position":"950,975","size":"100,100"}
 You:
 “Mom, do you pay attention to the news?”
 -
@@ -429,7 +466,7 @@ Do you want to become more active in your community?
 [[Yes->Yes1]] - [[No->No1]]
 
 
-:: MO-LW-LWPOV {"position":"875,75","size":"100,100"}
+:: MO-LW-LWPOV {"position":"725,975","size":"100,100"}
 You:
 “Babe, are you almost ready? We don’t want to be late to Lisa’s birthday dinner.” 
 -
@@ -498,7 +535,7 @@ What would you do?
 [[Join->Join]] - [[Abstain->Abstain]]
 
 
-:: Middle Path {"position":"150,200","size":"100,100"}
+:: Middle Path {"position":"325,600","size":"100,100"}
 You: 
 “Let’s go down the middle path!”. 
 -
@@ -513,7 +550,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Music1 {"position":"525,250","size":"100,100"}
+:: Music1 {"position":"1050,600","size":"100,100"}
 You:
 (I think I’ll just enjoy nature for a bit.)
 -
@@ -527,6 +564,9 @@ It is an American Robin. Most commonly seen in lawns, gardens, and parks. These 
 You:
 (Nature is so beautiful. I should come here more often!)
 -
+Check out East Austin! If not visited already:
+[[LW POV(n)->AGAEA-LWPOV]]
+
 -New Nespaper!-
 
 Tesla’s Moving In 
@@ -540,7 +580,7 @@ City rejects Elon Musk’s proposal for new Tesla factories in East Austin
 [[EA POV (n) ->MO-EA-EAPov]]
 
 
-:: No1 {"position":"1025,175","size":"100,100"}
+:: No1 {"position":"1000,1050","size":"100,100"}
 You:
 (That’s too much work for a teenage girl. Maybe when I’m older, I’ll care more.)
 -
@@ -552,7 +592,7 @@ You go back to your room and finish your paper.
 
 
 
-:: Read1 {"position":"500,125","size":"100,100"}
+:: Read1 {"position":"975,600","size":"100,100"}
 You:
 (I know I should study… but I’ve been wanting to start this book for a while…)
 -
@@ -561,6 +601,9 @@ You take out the book and start reading. As you read, a Fiery Skipper lands on y
 You:
 (I should come here more often!)
 -
+Check out LW! If not visited already:
+[[LW POV(n)->AGAEA-LWPOV]]
+
 -New Nespaper!-
 
 Tesla’s Moving In 
@@ -574,7 +617,7 @@ City rejects Elon Musk’s proposal for new Tesla factories in East Austin
 [[EA POV (n) ->MO-EA-EAPov]]
 
 
-:: Right Path {"position":"175,100","size":"100,100"}
+:: Right Path {"position":"400,600","size":"100,100"}
 You: 
 “Let’s go down the right path!”. 
 -
@@ -590,7 +633,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Start {"position":"425,0","size":"100,100"}
+:: Start {"position":"450,75","size":"100,100"}
 News reporter:
 “Right now, I am standing in East Austin, known for its diverse and rich culture, shaped by the Black and Hispanic communities."
 -
@@ -608,23 +651,20 @@ News reporter:
 -
 -
 -
-A Greener Austin! 
+Open newspaper
+A Greener Austin! - 1
 City buys Lakeway Ranch that will be used to expand preserve for the golden-cheeked warbler; remaining funds to be used to create a new grassy lawn in East Austin
 -
-[[LW POV (+)->AGALW-LWPOV]]
-[[EA POV (-) ->AGALW-EAPov]]
-
-A Greener Austin! 
+A Greener Austin! - 2
 City buys abandoned warehouse in East Austin with plans to turn it into a new park. 
--
-[[LW POV(n)->AGAEA-LWPOV]]
-[[EA POV(+) ->AGAEA-EAPov]]
--
+
+What headline do you choose?
+[[A Greener Austin 1->AGA1]] - [[A Greener Austin 2->AGA2]]
 
 
 
 
-:: Stay {"position":"250,125","size":"100,100"}
+:: Stay {"position":"625,600","size":"100,100"}
 You:
 “Let’s just stay.”
 -
@@ -644,9 +684,23 @@ You
 (Was it even worth it to stay?)
 -
 
+Check out LW POV:
+[[LW POV (+)->AGALW-LWPOV]]
+
+-New Nespaper!-
+
+Tesla’s Moving In 
+Local East Austin parks to be used for new Tesla factories after Musk’s billion-dollar deal; City buys land in Lakeway 
+[[LW POV(+)->TMI-LW-LWPOV]]
+[[EA POV(-) ->TMI-EA-EAPov]]
+
+Musk OUT (one page) 
+City rejects Elon Musk’s proposal for new Tesla factories in East Austin
+[[LW POV (n)->MO-LW-LWPOV]]
+[[EA POV (n) ->MO-EA-EAPov]]
 
 
-:: Stay Home {"position":"800,200","size":"100,100"}
+:: Stay Home {"position":"550,1125","size":"100,100"}
 You take out your phone and text Beverly. 
 -
 You:
@@ -675,7 +729,7 @@ You:
 
 
 
-:: TMI-EA-EAPov {"position":"750,75","size":"100,100"}
+:: TMI-EA-EAPov {"position":"475,975","size":"100,100"}
 You and Beverly made plans to hang out this weekend. You walk downstairs to your Mom in the kitchen.
 -
 You:
@@ -696,7 +750,7 @@ What do you want to do?
 [[Bus ->Bus]] - [[Bike2->Bike2]] -  [[Stay Home->Stay Home]]
 
 
-:: TMI-LW-LWPOV {"position":"675,75","size":"100,100"}
+:: TMI-LW-LWPOV {"position":"325,975","size":"100,100"}
 Husband:
 “Honey, are you almost ready? We don’t want to be late to Lisa’s housewarming party.” 
 -
@@ -713,7 +767,7 @@ What should I bring?
 [[Wine->Wine]] - [[Candles->Candles]] -  [[Flowers->Flowers]]
 
 
-:: Walk1 {"position":"425,200","size":"100,100"}
+:: Walk1 {"position":"850,600","size":"100,100"}
 You:
 (The park is really close by, we can just walk.)
 -
@@ -727,6 +781,8 @@ Liam and Sam:
 -
 You have a nice walk to the park, passing by several oak trees and Eastern Grey Squirrels. Once you reach the park, the kids are eager to run around and play together. You sit down on a bench and watch them.
 -
+Check out East Austin! If not visited already:
+[[EA POV(+) ->AGAEA-EAPov]]
 
 -New Nespaper!-
 
@@ -742,7 +798,7 @@ City rejects Elon Musk’s proposal for new Tesla factories in East Austin
 
 
 
-:: Wine {"position":"675,125","size":"100,100"}
+:: Wine {"position":"100,1300","size":"100,100"}
 You:
 (Wine, it’s a classic.)
 -
@@ -787,7 +843,7 @@ Lisa:
 
 
 
-:: Write1 {"position":"525,200","size":"100,100"}
+:: Write1 {"position":"1000,600","size":"100,100"}
 You:
 (I did come here to study. I should work on the short story I need to write.)
 -
@@ -796,6 +852,9 @@ You take out your pencil and journal and start scribbling away. As you write, a 
 You:
 (I should come here more often! I am really able to focus.)
 -
+Check out East Austin! If not visited already:
+[[LW POV(n)->AGAEA-LWPOV]]
+
 -New Nespaper!-
 
 Tesla’s Moving In 
@@ -809,7 +868,7 @@ City rejects Elon Musk’s proposal for new Tesla factories in East Austin
 [[EA POV (n) ->MO-EA-EAPov]]
 
 
-:: Yes1 {"position":"950,175","size":"100,100"}
+:: Yes1 {"position":"950,1050","size":"100,100"}
 You:
 (It would be nice to see more change in the are. I should try to be more active.)
 -
