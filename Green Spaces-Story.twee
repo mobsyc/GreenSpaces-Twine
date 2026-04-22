@@ -12,7 +12,7 @@ Green Spaces
 }
 
 
-:: AGAEA-EAPov {"position":"725,175","size":"100,100"}
+:: AGAEA-EAPov {"position":"425,100","size":"100,100"}
 “God, I cannot focus!”
 -
 You drop your pencil.
@@ -30,7 +30,7 @@ You take out your phone to check. There is a new park, and its really close by. 
 [[Read ->Read1]] - [[Write->Write1]] -  [[Listen to Music->Music1]]
 
 
-:: AGAEA-LWPOV {"position":"600,175","size":"100,100"}
+:: AGAEA-LWPOV {"position":"375,100","size":"100,100"}
 Husband:
 “Don’t forget it’s your turn to take the kids to the park this week.”
 -
@@ -50,7 +50,7 @@ You:
 
 
 
-:: AGALW-EAPov {"position":"325,150","size":"100,100"}
+:: AGALW-EAPov {"position":"225,100","size":"100,100"}
 You are lying in your bed, staring at the ceiling. 
 -
 You:
@@ -76,7 +76,7 @@ Beverly:
 
 
 
-:: AGALW-LWPOV {"position":"225,150","size":"100,100"}
+:: AGALW-LWPOV {"position":"200,100","size":"100,100"}
 ''Liam'':
 “Mommmm can we pleaseeee go outside? I’m sooo booooored!” 
 -
@@ -104,7 +104,7 @@ You round them up into the car and go to the preserve. Once you arrive, there ar
 [[Left Path->Left Path]] - [[Middle Path->Middle Path]] - [[Right Path->Right Path]]
 
 
-:: Bike1 {"position":"550,300","size":"100,100"}
+:: Bike1 {"position":"400,175","size":"100,100"}
 You:
 (We haven’t used our bikes in a while.)
 - 
@@ -121,7 +121,52 @@ You grab all the bikes from the garage and have a nice bike ride to the park as 
 
 
 
-:: Drive1 {"position":"600,350","size":"100,100"}
+:: Candles {"position":"775,250","size":"100,100"}
+You:
+(She is always eyeing these candles.)
+-
+You:
+“Okay, I’m ready. Goodbye, my little ones, we love you! Don’t give the babysitter a hard time.”
+-
+You give them a kiss on the cheek and leave. The walk through the greenery to your friend Lisa’s house is very short. You arrive and knock on the door. 
+-
+Lisa:
+“Diana! You finally made it!” 
+-
+The two of you hug. You offer the candles 
+-
+Lisa:
+“Are these? I’ve always wanted these candles! Thank you!”
+-
+She takes the candles. 
+-
+You:
+“It was no problem, and you remember my husband.” 
+-
+Lisa:
+“Of course!”
+-
+The two greet each other. 
+-
+You:
+(I’m glad I told her that the city was going to build more homes on the land that they bought.)
+-
+You:
+“I’m so happy that you were able to find a place over here.” 
+-
+Lisa:
+“Me too! Especially with all those protests happening in East Austin. I’m glad we left when we did.”
+-
+You:
+“It’s crazy. Those protests are getting really intense. I don’t understand why there’s so much unrest. Austin is so green!”
+-
+Lisa:
+“To be fair, East Austin does get the short end of the stick when it comes to green spaces.”
+-
+
+
+
+:: Drive1 {"position":"425,250","size":"100,100"}
 You:
 (If we take the car, I can go to the store after.)
 -
@@ -138,7 +183,58 @@ You round them up into the car and drive to the park, where the kids run around 
 
 
 
-:: Leave {"position":"350,275","size":"100,100"}
+:: Flowers {"position":"750,200","size":"100,100"}
+You:
+(She has mentioned wanting to start a flower garden before.)
+You:
+“Okay, I’m ready. Goodbye, my little ones, we love you! Don’t give the babysitter a hard time.”
+-
+You give them a kiss on the cheek and leave. The walk through the greenery to your friend Lisa’s house is very short. You arrive and knock on the door. 
+-
+Lisa:
+“Diana! You finally made it!” 
+-
+The two of you hug. You offer the flowers.
+-
+Lisa:
+(Excited but confused)
+“What is this for?” 
+-
+You:
+“You mentioned wanting to start a garden. I figured now’s a great time to, and I can come over and help”.
+-
+She takes the flowers. 
+-
+Lisa:
+“Aww, thank you.”
+-
+You:
+“It was no problem, and you remember my husband.” 
+-
+Lisa:
+“Of course!”
+-
+The two greet each other. 
+-
+You:
+(I’m glad I told her that the city was going to build more homes on the land that they bought.)
+-
+You:
+“I’m so happy that you were able to find a place over here.” 
+-
+Lisa:
+“Me too! Especially with all those protests happening in East Austin. I’m glad we left when we did.”
+-
+You:
+“It’s crazy. Those protests are getting really intense. I don’t understand why there’s so much unrest. Austin is so green!”
+-
+Lisa:
+“To be fair, East Austin does get the short end of the stick when it comes to green spaces.”
+-
+
+
+
+:: Leave {"position":"275,225","size":"100,100"}
 You:
 (The smell is just unbearable. I should’ve just stayed at home.)
 -
@@ -149,7 +245,7 @@ Random Woman:
 -
 
 
-:: Left Path {"position":"100,275","size":"100,100"}
+:: Left Path {"position":"125,225","size":"100,100"}
 You: 
 “Let’s go down the left path!”
 -
@@ -164,7 +260,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Look at it {"position":"150,450","size":"100,100"}
+:: Look at it {"position":"100,400","size":"100,100"}
 You: 
 “It’s a Golden Cheek Warbler!”
 -
@@ -172,7 +268,7 @@ It is a species that is highly endangered because of the rapid urban expansion. 
 -
 
 
-:: Middle Path {"position":"150,300","size":"100,100"}
+:: Middle Path {"position":"100,275","size":"100,100"}
 You: 
 “Let’s go down the middle path!”. 
 -
@@ -187,7 +283,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Music1 {"position":"775,350","size":"100,100"}
+:: Music1 {"position":"550,250","size":"100,100"}
 You:
 (I think I’ll just enjoy nature for a bit.)
 -
@@ -204,7 +300,7 @@ You:
 
 
 
-:: Read1 {"position":"725,300","size":"100,100"}
+:: Read1 {"position":"500,125","size":"100,100"}
 You:
 (I know I should study… but I’ve been wanting to start this book for a while…)
 -
@@ -216,7 +312,7 @@ You:
 
 
 
-:: Right Path {"position":"200,325","size":"100,100"}
+:: Right Path {"position":"100,200","size":"100,100"}
 You: 
 “Let’s go down the right path!”. 
 -
@@ -232,7 +328,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Start {"position":"475,0","size":"100,100"}
+:: Start {"position":"500,0","size":"100,100"}
 A Greener Austin! LW
 City buys Lakeway Ranch that will be used to expand preserve for the golden-cheeked warbler; remaining funds to be used to create a new grassy lawn in East Austin
 -
@@ -245,10 +341,13 @@ City buys abandoned warehouse in East Austin with plans to turn it into a new pa
 [[LW POV+->AGAEA-LWPOV]]
 [[EA POV- ->AGAEA-EAPov]]
 
+--
+Tesla’s Moving In LW
+[[LW POV+->TMI-LW-LWPOV]]
 
 
 
-:: Stay {"position":"375,300","size":"100,100"}
+:: Stay {"position":"300,275","size":"100,100"}
 You:
 “Let’s just stay.”
 -
@@ -270,7 +369,24 @@ You
 
 
 
-:: Walk1 {"position":"575,325","size":"100,100"}
+:: TMI-LW-LWPOV {"position":"675,75","size":"100,100"}
+Husband:
+“Honey, are you almost ready? We don’t want to be late to Lisa’s housewarming party.” 
+-
+You:
+“Yes, sorry. I just can’t decide what to bring.”
+-
+In front of you is a bottle of wine, a nice set of candles, and ready-to-plant flowers. 
+-
+Husband:
+“Just pick one. She’s your friend, I’m sure she’ll like anything.”
+-
+What should I bring?
+
+[[Wine->Wine]] - [[Candles->Candles]] -  [[Flowers->Flowers]]
+
+
+:: Walk1 {"position":"425,200","size":"100,100"}
 You:
 (The park is really close by, we can just walk.)
 -
@@ -287,7 +403,52 @@ You have a nice walk to the park, passing by several oak trees and Eastern Grey 
 
 
 
-:: Write1 {"position":"750,325","size":"100,100"}
+:: Wine {"position":"725,150","size":"100,100"}
+You:
+(Wine, it’s a classic.)
+-
+You:
+“Okay, I’m ready. Goodbye, my little ones, we love you! Don’t give the babysitter a hard time.”
+-
+You give them a kiss on the cheek and leave. The walk through the greenery to your friend Lisa’s house is very short. You arrive and knock on the door. 
+-
+Lisa:
+“Diana! You finally made it!” 
+-
+The two of you hug. You offer the wine.
+-
+Lisa:
+“Oh, you shouldn’t have.” 
+-
+She takes the wine. 
+-
+You:
+“It was no problem, and you remember my husband.” 
+-
+Lisa:
+“Of course!”
+-
+The two greet each other. 
+-
+You:
+(I’m glad I told her that the city was going to build more homes on the land that they bought.)
+-
+You:
+“I’m so happy that you were able to find a place over here.” 
+-
+Lisa:
+“Me too! Especially with all those protests happening in East Austin. I’m glad we left when we did.”
+-
+You:
+“It’s crazy. Those protests are getting really intense. I don’t understand why there’s so much unrest. Austin is so green!”
+-
+Lisa:
+“To be fair, East Austin does get the short end of the stick when it comes to green spaces.”
+-
+
+
+
+:: Write1 {"position":"525,200","size":"100,100"}
 You:
 (I did come here to study. I should work on the short story I need to write.)
 -
