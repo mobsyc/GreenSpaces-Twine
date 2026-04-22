@@ -50,7 +50,7 @@ You:
 
 
 
-:: AGALW-EAPov {"position":"225,100","size":"100,100"}
+:: AGALW-EAPov {"position":"200,50","size":"100,100"}
 You are lying in your bed, staring at the ceiling. 
 -
 You:
@@ -76,7 +76,7 @@ Beverly:
 
 
 
-:: AGALW-LWPOV {"position":"200,100","size":"100,100"}
+:: AGALW-LWPOV {"position":"175,50","size":"100,100"}
 ''Liam'':
 “Mommmm can we pleaseeee go outside? I’m sooo booooored!” 
 -
@@ -121,7 +121,79 @@ You grab all the bikes from the garage and have a nice bike ride to the park as 
 
 
 
-:: Candles {"position":"775,250","size":"100,100"}
+:: Bike2 {"position":"800,150","size":"100,100"}
+You:
+“Mom, have you seen my bike?”
+-
+Mom:
+“Yeah, it should be in the back.”
+-
+You go and get your bike. It has been a while since you last used it, but it doesn’t take you long to find your footing again. The fastest way to Beverly’s house is by the new Tesla factory. Your breathing starts to get more labored. There aren’t many trees to shade you from the hot sun. You are lucky if some of the buildings block the sun.
+You:
+(I know it’s been a while, but I didn’t think I was this out of shape. )
+-
+You finally arrive at Beverly’s house and knock on her door. She opens the door.
+-
+Beverly:
+“What took you so- oh my god, are you okay?”
+-
+You can barely hold yourself up. You shake your head. 
+-
+Beverly:
+“You look awful.”
+-
+You:
+“I had to bike over here.”
+-
+Beverly:
+“Okay, but you look sick, Diana. You should go home. You can stay here until your Mom can pick you up.”
+-
+You nod your head in agreement and lie down on the couch. Beverly brings you a blanket. Your Mom picks you up, and when you get home, you collapse on your bed with a fever. 
+-
+
+
+
+:: Bus {"position":"800,225","size":"100,100"}
+You:
+(I am way too tired to bike over.)
+-
+You walk over to the bus stop and wait 10 minutes for the bus to arrive. 
+You:
+(Luckily, I didn’t miss it.)
+-
+Once you get on the bus, there aren’t many open seats, so you choose to stand and look out the window. The bus drives over a pothole, causing a baby to wake up and start crying. You didn’t mind taking the bus before, but the nice scenery has been replaced by a Tesla factory, and it now makes the ride less enjoyable. 
+-
+You:
+(I wish the bus could get there faster.)
+-
+Once you arrive at the bus stop, you still have to walk to Beverly’s house. For some reason, you start to get a headache. You arrive at Beverly’s house and knock on the door. She answers, excited to see you. 
+-
+Beverly:
+“What took you so long?
+-
+You:
+“I had to take the bus.”
+ -
+Beverly:
+“Are you okay? You don’t look so good.”
+-
+You:
+“I’m probably just tired.”
+-
+Beverly puts her hand against your forehead. 
+-
+Beverly:
+“I don’t know, Diana, you’re pretty hot. Are you sure you’re not sick?”
+-
+You:
+“I’m fine.”
+-
+You spend the rest of the evening at Beverly’s house. You try to have fun, but don’t feel better for the rest of the night. Your Mom picks you up, and when you get home, you collapse on your bed with a fever. 
+-
+
+
+
+:: Candles {"position":"675,175","size":"100,100"}
 You:
 (She is always eyeing these candles.)
 -
@@ -183,7 +255,7 @@ You round them up into the car and drive to the park, where the kids run around 
 
 
 
-:: Flowers {"position":"750,200","size":"100,100"}
+:: Flowers {"position":"675,150","size":"100,100"}
 You:
 (She has mentioned wanting to start a flower garden before.)
 You:
@@ -234,7 +306,7 @@ Lisa:
 
 
 
-:: Leave {"position":"275,225","size":"100,100"}
+:: Leave {"position":"250,75","size":"100,100"}
 You:
 (The smell is just unbearable. I should’ve just stayed at home.)
 -
@@ -245,7 +317,7 @@ Random Woman:
 -
 
 
-:: Left Path {"position":"125,225","size":"100,100"}
+:: Left Path {"position":"175,150","size":"100,100"}
 You: 
 “Let’s go down the left path!”
 -
@@ -260,7 +332,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Look at it {"position":"100,400","size":"100,100"}
+:: Look at it {"position":"125,325","size":"100,100"}
 You: 
 “It’s a Golden Cheek Warbler!”
 -
@@ -268,7 +340,7 @@ It is a species that is highly endangered because of the rapid urban expansion. 
 -
 
 
-:: Middle Path {"position":"100,275","size":"100,100"}
+:: Middle Path {"position":"150,200","size":"100,100"}
 You: 
 “Let’s go down the middle path!”. 
 -
@@ -312,7 +384,7 @@ You:
 
 
 
-:: Right Path {"position":"100,200","size":"100,100"}
+:: Right Path {"position":"175,100","size":"100,100"}
 You: 
 “Let’s go down the right path!”. 
 -
@@ -344,10 +416,10 @@ City buys abandoned warehouse in East Austin with plans to turn it into a new pa
 --
 Tesla’s Moving In LW
 [[LW POV+->TMI-LW-LWPOV]]
+[[EA POV- ->TMI-EA-EAPov]]
 
 
-
-:: Stay {"position":"300,275","size":"100,100"}
+:: Stay {"position":"250,125","size":"100,100"}
 You:
 “Let’s just stay.”
 -
@@ -367,6 +439,56 @@ You
 (Was it even worth it to stay?)
 -
 
+
+
+:: Stay Home {"position":"800,200","size":"100,100"}
+You take out your phone and text Beverly. 
+-
+You:
+(“I’m sorry B”)
+-
+You:
+(“ My Mom can’t take me. I think I’m just going to stay home”)
+-
+Beverly:
+(“WHAT”)
+-
+Beverly:
+(“But we planned this last week”)
+-
+You:
+(“I know I’m sorry :(“ )
+-
+You:
+(“It’s just that my mom forgot, and I have been feeling really bad recently”)
+-
+You put your phone down and collapse on your bed.
+-
+You:
+(I was so excited about hanging out today. Maybe I’ll feel better tomorrow.)
+-
+
+
+
+:: TMI-EA-EAPov {"position":"750,75","size":"100,100"}
+You and Beverly made plans to hang out this weekend. You walk downstairs to your Mom in the kitchen.
+-
+You:
+“Mom, are you ready to take me to Beverly’s?”
+-
+Mom:
+“Oh, sweetie, was that today? I’m so sorry, I can’t. Can her Mom come pick you up?” 
+-
+You sigh.
+-
+You:
+“It’s okay, I’ll figure it out.” 
+-
+You check your phone. It’ll take 30 minutes if you take the bus or 20 minutes if you bike.
+-
+What do you want to do?
+
+[[Bus ->Bus]] - [[Bike2->Bike2]] -  [[Stay Home->Stay Home]]
 
 
 :: TMI-LW-LWPOV {"position":"675,75","size":"100,100"}
@@ -403,7 +525,7 @@ You have a nice walk to the park, passing by several oak trees and Eastern Grey 
 
 
 
-:: Wine {"position":"725,150","size":"100,100"}
+:: Wine {"position":"675,125","size":"100,100"}
 You:
 (Wine, it’s a classic.)
 -
