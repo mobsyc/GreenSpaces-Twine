@@ -12,21 +12,21 @@ Green Spaces
 }
 
 
-:: AGA1 {"position":"425,150","size":"100,100"}
+:: AGA1 {"position":"500,175","size":"100,100"}
 Where would you like to go?
 [[Lakeway POV (+)->AGALW-LWPOV]]
 [[East Austin POV (-) ->AGALW-EAPov]]
 
 
 
-:: AGA2 {"position":"575,150","size":"100,100"}
+:: AGA2 {"position":"700,175","size":"100,100"}
 Where would you like to go?
 [[Lakeway POV(n)->AGAEA-LWPOV]]
 [[East Austin POV(+) ->AGAEA-EAPov]]
 
 
 
-:: AGAEA-EAPov {"position":"950,450","size":"100,100"}
+:: AGAEA-EAPov {"position":"775,275","size":"100,100"}
 “God, I cannot focus!”
 -
 You drop your pencil.
@@ -44,7 +44,7 @@ You take out your phone to check. There is a new park, and its really close by. 
 [[Read ->Read1]] - [[Write->Write1]] -  [[Listen to Music->Music1]]
 
 
-:: AGAEA-LWPOV {"position":"800,450","size":"100,100"}
+:: AGAEA-LWPOV {"position":"650,275","size":"100,100"}
 Husband:
 “Don’t forget it’s your turn to take the kids to the park this week.”
 -
@@ -64,7 +64,7 @@ You:
 
 
 
-:: AGALW-EAPov {"position":"575,450","size":"100,100"}
+:: AGALW-EAPov {"position":"525,275","size":"100,100"}
 You are lying in your bed, staring at the ceiling. 
 -
 You:
@@ -90,7 +90,7 @@ Beverly:
 
 
 
-:: AGALW-LWPOV {"position":"375,450","size":"100,100"}
+:: AGALW-LWPOV {"position":"400,275","size":"100,100"}
 ''Liam'':
 “Mommmm can we pleaseeee go outside? I’m sooo booooored!” 
 -
@@ -118,7 +118,7 @@ You round them up into the car and go to the preserve. Once you arrive, there ar
 [[Left Path->Left Path]] - [[Middle Path->Middle Path]] - [[Right Path->Right Path]]
 
 
-:: Abstain {"position":"750,1350","size":"100,100"}
+:: Abstain {"position":"700,975","size":"100,100"}
 You nod your head, to keep face.
 -
 You:
@@ -127,9 +127,13 @@ You:
 You try to enjoy the rest of the night, but it’s hard to ignore the difference in you and Lisa’s beliefs. You go home, feeling like you lost a friend.
 -
 
+Check out East Austin! If not visited already:
+[[EA POV (-) ->MO-EA-EAPov]]
+
+[[-New Nespaper!-->Newspaper3]]
 
 
-:: Bike1 {"position":"800,600","size":"100,100"}
+:: Bike1 {"position":"675,425","size":"100,100"}
 You:
 (We haven’t used our bikes in a while.)
 - 
@@ -154,7 +158,7 @@ Check out East Austin! If not visited already:
 
 
 
-:: Bike2 {"position":"575,1425","size":"100,100"}
+:: Bike2 {"position":"525,1050","size":"100,100"}
 You:
 “Mom, have you seen my bike?”
 -
@@ -184,10 +188,13 @@ Beverly:
 -
 You nod your head in agreement and lie down on the couch. Beverly brings you a blanket. Your Mom picks you up, and when you get home, you collapse on your bed with a fever. 
 -
+Check out Lakeway! If not visited already:
+[[EA POV (-) ->TMI-LW-LWPOV]]
+
+[[-New Nespaper!-->Newspaper3]]
 
 
-
-:: Bus {"position":"400,1425","size":"100,100"}
+:: Bus {"position":"525,900","size":"100,100"}
 You:
 (I am way too tired to bike over.)
 -
@@ -224,10 +231,13 @@ You:
 -
 You spend the rest of the evening at Beverly’s house. You try to have fun, but don’t feel better for the rest of the night. Your Mom picks you up, and when you get home, you collapse on your bed with a fever. 
 -
+Check out Lakeway! If not visited already:
+[[EA POV (-) ->TMI-LW-LWPOV]]
+
+[[-New Nespaper!-->Newspaper3]]
 
 
-
-:: Candles {"position":"225,1350","size":"100,100"}
+:: Candles {"position":"325,975","size":"100,100"}
 You:
 (She is always eyeing these candles.)
 -
@@ -273,10 +283,10 @@ Lisa:
 Check out East Austin! If not visited already:
 [[EA POV (-) ->TMI-EA-EAPov]]
 
+[[-New Nespaper!-->Newspaper3]]
 
 
-
-:: Drive1 {"position":"750,600","size":"100,100"}
+:: Drive1 {"position":"675,350","size":"100,100"}
 You:
 (If we take the car, I can go to the store after.)
 -
@@ -297,7 +307,7 @@ Check out East Austin! If not visited already:
 
 
 
-:: Flowers {"position":"300,1350","size":"100,100"}
+:: Flowers {"position":"325,1050","size":"100,100"}
 You:
 (She has mentioned wanting to start a flower garden before.)
 You:
@@ -349,8 +359,10 @@ Lisa:
 Check out East Austin! If not visited already:
 [[EA POV (-) ->TMI-EA-EAPov]]
 
+[[-New Nespaper!-->Newspaper3]]
 
-:: Join {"position":"675,1350","size":"100,100"}
+
+:: Join {"position":"700,900","size":"100,100"}
 You:
 “I would do the same, its important to protect your community.”
 -
@@ -359,10 +371,13 @@ Lisa smiles. You enjoy the rest of the night and go home.
 You:
 (I’m lucky to have a friend like Lisa.)
 -
+Check out East Austin! If not visited already:
+[[EA POV (-) ->MO-EA-EAPov]]
+
+[[-New Nespaper!-->Newspaper3]]
 
 
-
-:: Leave {"position":"550,600","size":"100,100"}
+:: Leave {"position":"525,425","size":"100,100"}
 You:
 (The smell is just unbearable. I should’ve just stayed at home.)
 -
@@ -379,7 +394,39 @@ Check out LW POV:
 
 
 
-:: Left Path {"position":"225,600","size":"100,100"}
+:: LeaveIt {"position":"350,1450","size":"100,100"}
+You:
+(It’s okay if they don’t do it every once in a while.)
+-
+You point to the paper and cans.
+-
+You:
+“Boys, I thought I told you to recycle this stuff. Make sure you remember for next time.”
+-
+Liam and Sam:
+“Yesss, Momm.”
+-
+The three of you take the trash outside and put it in the bins. Liam and Sam take a bin and race to the end of the driveway.
+-
+Liam:
+“Where does all the trash go?”
+-
+You:
+“Well, the garbage man comes with his big truck, scoops up the bin, and takes our trash away.”
+-
+Liam:
+“Where does it go after that?”
+-
+You:
+“I’m not sure. Somewhere, far away from us.”
+- 
+Check out East Austin! If not visited already:
+[[EA POV (-) ->YNN-LW-EAPov]]
+
+[[-New Nespaper!-->Newspaper4]]
+
+
+:: Left Path {"position":"325,325","size":"100,100"}
 You: 
 “Let’s go down the left path!”
 -
@@ -394,7 +441,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Look at it {"position":"450,775","size":"100,100"}
+:: Look at it {"position":"325,625","size":"100,100"}
 You: 
 “It’s a Golden Cheek Warbler!”
 -
@@ -408,12 +455,12 @@ Check out East Austin! If not visited already:
 
 
 
-:: MO {"position":"650,1050","size":"100,100"}
+:: MO {"position":"700,725","size":"100,100"}
 [[Lakeway POV (n)->MO-LW-LWPOV]]
 [[East Austin POV (n) ->MO-EA-EAPov]]
 
 
-:: MO-EA-EAPov {"position":"900,1250","size":"100,100"}
+:: MO-EA-EAPov {"position":"800,825","size":"100,100"}
 You:
 “Mom, do you pay attention to the news?”
 -
@@ -445,7 +492,7 @@ Do you want to become more active in your community?
 [[Yes->Yes1]] - [[No->No1]]
 
 
-:: MO-LW-LWPOV {"position":"675,1250","size":"100,100"}
+:: MO-LW-LWPOV {"position":"675,825","size":"100,100"}
 You:
 “Babe, are you almost ready? We don’t want to be late to Lisa’s birthday dinner.” 
 -
@@ -514,7 +561,43 @@ What would you do?
 [[Join->Join]] - [[Abstain->Abstain]]
 
 
-:: Middle Path {"position":"325,600","size":"100,100"}
+:: Make {"position":"350,1400","size":"100,100"}
+“Boys, I thought I told you to recycle stuff like this.”
+-
+You point to the paper and cans.
+-
+You:
+“Go through and take out all the recyclable things.”
+-
+Liam and Sam:
+“Fineeee.”
+-
+You watch them take out everything and put it in the recycling bin. 
+-
+Sam:
+“Done!”
+-
+The three of you take the trash outside and put it in the bins. Liam and Sam take a bin and race to the end of the driveway.
+-
+Liam:
+“Where does all the trash go?”
+-
+You:
+“Well, the garbage man comes with his big truck, scoops up the bin, and takes our trash away.”
+-
+Liam:
+“Where does it go after that?”
+-
+You:
+“I’m not sure. Somewhere, far away from us.”
+- 
+Check out East Austin! If not visited already:
+[[EA POV (-) ->YNN-LW-EAPov]]
+
+[[-New Nespaper!-->Newspaper4]]
+
+
+:: Middle Path {"position":"325,400","size":"100,100"}
 You: 
 “Let’s go down the middle path!”. 
 -
@@ -529,7 +612,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Music1 {"position":"1050,600","size":"100,100"}
+:: Music1 {"position":"850,475","size":"100,100"}
 You:
 (I think I’ll just enjoy nature for a bit.)
 -
@@ -550,7 +633,18 @@ Check out East Austin! If not visited already:
 
 
 
-:: Newspaper2 {"position":"575,900","size":"100,100"}
+:: Newspaper1 {"position":"600,175","size":"100,100"}
+A Greener Austin! - 1
+City buys Lakeway Ranch that will be used to expand preserve for the golden-cheeked warbler; remaining funds to be used to create a new grassy lawn in East Austin
+-
+A Greener Austin! - 2
+City buys abandoned warehouse in East Austin with plans to turn it into a new park. 
+
+What headline do you choose?
+[[A Greener Austin 1->AGA1]] - [[A Greener Austin 2->AGA2]]
+
+
+:: Newspaper2 {"position":"600,725","size":"100,100"}
 Tesla’s Moving In 
 Local East Austin parks to be used for new Tesla factories after Musk’s billion-dollar deal; City buys land in Lakeway 
 
@@ -561,11 +655,23 @@ What headline do you choose?
 [[Tesla's Moving In->TMI]] - [[MuskOut->MO]]
 
 
-:: Newspaper3 {"position":"375,1825","size":"100,100"}
+:: Newspaper3 {"position":"600,1225","size":"100,100"}
+Your New Neighbor LW - 1
+City officials approve plan for a Hazardous waste facility to be built in East Austin
+
+Your New Neighbor EA -2
+City officials relocate hazardous waste facility plans to Lakeway
+
+
+What headline do you choose?
+[[TYour New Neighbor 1->YNN1]] - [[Your New Neighbor1->YNN2]]
+
+
+:: Newspaper4 {"position":"550,1625","size":"100,100"}
 
 
 
-:: No1 {"position":"975,1325","size":"100,100"}
+:: No1 {"position":"850,975","size":"100,100"}
 You:
 (That’s too much work for a teenage girl. Maybe when I’m older, I’ll care more.)
 -
@@ -574,10 +680,13 @@ You:
 -
 You go back to your room and finish your paper.
 -
+Check out Lakeway! If not visited already:
+[[EA POV (-) ->MO-LW-LWPOV]]
+
+[[-New Nespaper!-->Newspaper3]]
 
 
-
-:: Read1 {"position":"975,600","size":"100,100"}
+:: Read1 {"position":"850,325","size":"100,100"}
 You:
 (I know I should study… but I’ve been wanting to start this book for a while…)
 -
@@ -593,7 +702,7 @@ Check out LW! If not visited already:
 
 
 
-:: Right Path {"position":"400,600","size":"100,100"}
+:: Right Path {"position":"325,475","size":"100,100"}
 You: 
 “Let’s go down the right path!”. 
 -
@@ -609,7 +718,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Start {"position":"450,0","size":"100,100"}
+:: Start {"position":"600,75","size":"100,100"}
 News reporter:
 “Right now, I am standing in East Austin, known for its diverse and rich culture, shaped by the Black and Hispanic communities."
 -
@@ -627,20 +736,14 @@ News reporter:
 -
 -
 -
-Open newspaper
-A Greener Austin! - 1
-City buys Lakeway Ranch that will be used to expand preserve for the golden-cheeked warbler; remaining funds to be used to create a new grassy lawn in East Austin
--
-A Greener Austin! - 2
-City buys abandoned warehouse in East Austin with plans to turn it into a new park. 
 
-What headline do you choose?
-[[A Greener Austin 1->AGA1]] - [[A Greener Austin 2->AGA2]]
+[[Open newspaper->Newspaper1]]
 
 
 
 
-:: Stay {"position":"625,600","size":"100,100"}
+
+:: Stay {"position":"525,350","size":"100,100"}
 You:
 “Let’s just stay.”
 -
@@ -667,7 +770,7 @@ Check out LW POV:
 
 
 
-:: Stay Home {"position":"500,1425","size":"100,100"}
+:: Stay Home {"position":"525,975","size":"100,100"}
 You take out your phone and text Beverly. 
 -
 You:
@@ -709,17 +812,20 @@ Your mom turns off the light and closes the door.
 You:
 (I was so excited about hanging out today. Maybe I’ll feel better tomorrow.)
 -
+Check out Lakeway! If not visited already:
+[[EA POV (-) ->TMI-LW-LWPOV]]
+
+[[-New Nespaper!-->Newspaper3]]
 
 
-
-:: TMI {"position":"450,1075","size":"100,100"}
+:: TMI {"position":"500,725","size":"100,100"}
 Where would you like to go?
 [[Lakeway POV (+)->TMI-LW-LWPOV]]
 [[East Austin POV (-) ->TMI-EA-EAPov]]
 
 
 
-:: TMI-EA-EAPov {"position":"425,1300","size":"100,100"}
+:: TMI-EA-EAPov {"position":"550,825","size":"100,100"}
 You and Beverly made plans to hang out this weekend. You walk downstairs to your Mom in the kitchen.
 -
 You:
@@ -740,7 +846,7 @@ What do you want to do?
 [[Bus ->Bus]] - [[Bike2->Bike2]] -  [[Stay Home->Stay Home]]
 
 
-:: TMI-LW-LWPOV {"position":"250,1200","size":"100,100"}
+:: TMI-LW-LWPOV {"position":"400,825","size":"100,100"}
 Husband:
 “Honey, are you almost ready? We don’t want to be late to Lisa’s housewarming party.” 
 -
@@ -757,7 +863,7 @@ What should I bring?
 [[Wine->Wine]] - [[Candles->Candles]] -  [[Flowers->Flowers]]
 
 
-:: Walk1 {"position":"850,600","size":"100,100"}
+:: Walk1 {"position":"675,500","size":"100,100"}
 You:
 (The park is really close by, we can just walk.)
 -
@@ -778,7 +884,7 @@ Check out East Austin! If not visited already:
 
 
 
-:: Wine {"position":"100,1350","size":"100,100"}
+:: Wine {"position":"325,900","size":"100,100"}
 You:
 (Wine, it’s a classic.)
 -
@@ -823,12 +929,10 @@ Lisa:
 Check out East Austin! If not visited already:
 [[EA POV (-) ->TMI-EA-EAPov]]
 
-
-
 [[-New Nespaper!-->Newspaper3]]
 
 
-:: Write1 {"position":"1000,600","size":"100,100"}
+:: Write1 {"position":"850,400","size":"100,100"}
 You:
 (I did come here to study. I should work on the short story I need to write.)
 -
@@ -844,7 +948,46 @@ Check out East Austin! If not visited already:
 
 
 
-:: Yes1 {"position":"925,1325","size":"100,100"}
+:: YNN-EA-EAPov {"position":"650,1325","size":"100,100"}
+
+
+
+:: YNN-EA-LWPOV {"position":"750,1325","size":"100,100"}
+
+
+
+:: YNN-LW-EAPov {"position":"525,1325","size":"100,100"}
+
+
+
+:: YNN-LW-LWPOV {"position":"425,1325","size":"100,100"}
+You:
+“Trash day. Everyone, go get the trash!”
+-
+You get the trash and recycling from the kitchen. Sam and Liam come down the stairs with their trash cans. You can see some paper and cans in the trash cans.
+-
+You:
+(I thought I told them to recycle stuff like this.)
+-
+What should you do?
+
+[[Make them sort their trash->Make]] - [[Just leave it->LeaveIt]] 
+
+
+:: YNN1 {"position":"500,1225","size":"100,100"}
+Where would you like to go?
+[[Lakeway POV (+)->YNN-LW-LWPOV]]
+[[East Austin POV (-) ->YNN-LW-EAPov]]
+
+
+
+:: YNN2 {"position":"700,1225","size":"100,100"}
+Where would you like to go?
+[[Lakeway POV (n)->YNN-EA-LWPOV]]
+[[East Austin POV (-) ->YNN-EA-EAPov]]
+
+
+:: Yes1 {"position":"850,900","size":"100,100"}
 You:
 (It would be nice to see more change in the are. I should try to be more active.)
 -
@@ -853,4 +996,7 @@ You:
 -
 You go back to your room and research ways that teenagers can help their community and get more involved in local politics.
 -
+Check out Lakeway! If not visited already:
+[[EA POV (-) ->MO-LW-LWPOV]]
 
+[[-New Nespaper!-->Newspaper3]]
