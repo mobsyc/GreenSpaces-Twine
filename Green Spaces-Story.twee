@@ -12,7 +12,7 @@ Green Spaces
 }
 
 
-:: \ Awake {"position":"525,1500","size":"100,100"}
+:: \ Awake {"position":"500,1475","size":"100,100"}
 You find the will to get up and ready for school. You walk downstairs to your mom in the kitchen, drinking a cup of coffee. She looks a little surprised to see you. 
 -
 Mom:
@@ -64,6 +64,23 @@ Check out  Lakeway! If not visited already:
 
 
 
+:: \ BadEA {"position":"700,2300","size":"100,100"}
+“Taking a look at Austin today, many changes have been made throughout the years, which have affected Lakeway and East Austin. 
+-
+“Lakeway continues to thrive, with more green spaces and areas for locals to go out and enjoy the scenery, which has been shown to improve mental health and decrease stress.”
+-
+“In East Austin, things have progressively gotten worse, with air pollution being at an all-time high. From respiratory infections in children to chronic bronchitis in adults, disease has been rampant in low-income communities with no signs of letting up. ”
+-
+“Over the years environmental injustice has been linked to historical segregation, redlining and has shaped the distribution of the Austin communities we know today.“
+-
+“Individuals who physically live on “the wrong side of the tracks” are subjected to elevated environmental health threats and more than their fair share of preventable diseases.”
+-
+“All people should have the right to equal protection and enforcement of environmental laws regardless of race or income.”
+-
+“America is segregated, and so is pollution” - Robert Bullard on Environmental Justice”.
+
+
+
 :: \ EAChant {"position":"850,1400","size":"100,100"}
 The chanting becomes overpowering. They stop as the board members briefly congregate before turning back to the residents. 
 -
@@ -95,7 +112,19 @@ Check out East Austin! If not visited already:
 [[-New Nespaper!-->Newspaper4]]
 
 
-:: \ Snooze {"position":"525,1425","size":"100,100"}
+:: \ Movie {"position":"275,1975","size":"100,100"}
+“Ok, guys, let’s watch a movie, or maybe even have a marathon.”
+-
+As a family, you guys hang out, using the TV to your heart's content.
+-
+Check out East Austin! If not visited already:
+[[EA POV (-) ->NECS-EAPov]]
+
+[[-Endings!-->Endings!]]
+
+
+
+:: \ Snooze {"position":"500,1400","size":"100,100"}
 You double-click the power button and go back to sleep. Some time passes, and you hear your mom open your door. 
 -
 Mom:
@@ -182,6 +211,137 @@ Check out Lakeway! If not visited already:
 [[-New Nespaper!-->Newspaper4]]
 
 
+:: \ VideoGame {"position":"275,1900","size":"100,100"}
+You:
+“Ok, guys, let's use the Switch, it’s been a while.”
+-
+As a family, you guys hang out, using the Switch to your heart's content.
+-
+Check out East Austin! If not visited already:
+[[EA POV (-) ->NECS-EAPov]]
+
+[[-Endings!-->Endings!]]
+
+
+
+:: \ balloon {"position":"675,1950","size":"100,100"}
+You:
+“Ok, guys, let’s… have a water balloon fight!”
+-
+You and your husband team up against your kids and have a surprisingly close water-balloon fight.
+-
+Check out East Austin! If not visited already:
+[[EA POV (-) ->SS-EAPov]]
+
+[[-Endings!-->Endings!]]
+
+
+:: \ busBench {"position":"475,1875","size":"100,100"}
+You guys sit on the bus stop bench and take a breath, but the heat is still getting to you guys.
+-
+Kim:
+“Oh man, I wish this park were closer.”
+-
+You:
+“Or if we have a great big oak tree right here.”
+-
+Kim:
+“Maybe we should just head home…try again when it isn’t scorching hot.”
+-
+You:
+“I think you’re right.”
+-
+You both head home, tired of the heat. 
+
+Check out Lakeway! If not visited already:
+[[LW POV (-) ->NECS-LWPOV]]
+
+[[-Endings!-->Endings!]]
+
+
+
+:: \ neutral {"position":"575,2300","size":"100,100"}
+“Taking a look at Austin today, many changes have been made throughout the years, which have affected Lakeway and East Austin. 
+-
+“Lakeway continues to thrive, with more green spaces and areas for locals to go out and enjoy the scenery, which has been shown to improve mental health and decrease stress.”
+-
+“In East Austin, low-income people are continuing to struggle with pollution, respiratory issues, and mental health with the lower amount of greenery in these urban areas.”
+-
+“Over the years, environmental injustice has been linked to historical segregation, redlining, and has shaped the distribution of the Austin communities we know today.“
+-
+“Individuals who physically live on “the wrong side of the tracks” are subjected to elevated environmental health threats and more than their fair share of preventable diseases.”
+-
+“All people should have the right to equal protection and enforcement of environmental laws regardless of race or income.”
+-
+“America is segregated, and so is pollution” - Robert Bullard on Environmental Justice”.
+-
+
+
+
+:: \ pool {"position":"675,1875","size":"100,100"}
+You:
+“Ok, guys, let's use the pool, it’s been a while.”
+-
+As a family, you guys hang out, using the pool to your heart's content.
+-
+Check out East Austin! If not visited already:
+[[EA POV (-) ->SS-EAPov]]
+
+[[-Endings!-->Endings!]]
+
+
+
+:: \ present {"position":"850,1875","size":"100,100"}
+ Kim:
+“Okay, sounds good!”
+-
+Next class, the three of you present on the Black-capped Vireo, and the presentation goes well.
+-
+Teacher:
+“Did I see that you guys used a photo that Diana took?”
+-
+You:
+“Yes, we did.”
+-
+Teacher:
+“Where did you take that photo?”
+-
+You:
+“I took it at a shrubland nearby.”
+-
+Teacher:
+“Very impressive. You guys did a great job.”
+-
+You both head home, tired of the heat. 
+-
+Check out Lakeway! If not visited already:
+[[LW POV (-) ->SS-LWPOV]]
+
+[[-Endings!-->Endings!]]
+
+
+:: \ smallTree {"position":"475,1950","size":"100,100"}
+You guys sit on the small tree and take a breath, but the heat is still getting to you guys.
+-
+Kim:
+“Oh man, I wish this park were closer.”
+-
+You:
+“Or if we have a great big oak tree right here.”
+-
+Kim:
+“Maybe we should just head home…try again when it isn’t scorching hot.”
+-
+You:
+“I think you’re right.”
+-
+You both head home, tired of the heat. 
+-
+[[LW POV (-) ->NECS-LWPOV]]
+
+[[-Endings!-->Endings!]]
+
+
 :: AGA1 {"position":"500,175","size":"100,100"}
 Where would you like to go?
 [[Lakeway POV (+)->AGALW-LWPOV]]
@@ -211,7 +371,7 @@ You take out your phone to check. There is a new park, and its really close by. 
 -
 (text-style:"underline")[What should you do?]
 
-[[Read ->Read1]] - [[Write->Write1]] -  [[Listen to Music->Music1]]
+ [[Write->Write1]] -  [[Listen to Music->Music1]]
 
 
 :: AGAEA-LWPOV {"position":"675,275","size":"100,100"}
@@ -230,7 +390,7 @@ You:
 -
 (text-style:"underline")[We could…]
 
-[[Bike ->Bike1]] - [[Walk ->Walk1]] -  [[Drive->Drive1]]
+[[Bike ->Bike1]] - [[Walk ->Walk1]] 
 
 
 
@@ -275,7 +435,7 @@ You turn around to see your two children, Sam and Liam, behind you.
 ''You'':
 “Okay, but Mommy gets to decide where we go.”
 -
-You round them up into the car and go to the preserve. Once you arrive, there are 3 paths. The left path appears to lead to a cove, the middle path appears to be an easy path, and the right path looks more difficult.
+You round them up into the car and go to the preserve. Once you arrive, there are 2 paths. The left path appears to lead to a cove and the right path looks more difficult.
 -
 ''Sam:''
 “ Let’s go to the left.”
@@ -285,7 +445,7 @@ You round them up into the car and go to the preserve. Once you arrive, there ar
 -
 (text-style:"underline")[What path do you choose?]
 
-[[Left Path->Left Path]] - [[Middle Path->Middle Path]] - [[Right Path->Right Path]]
+[[Left Path->Left Path]] - [[Right Path->Right Path]]
 
 
 :: Abstain {"position":"700,975","size":"100,100"}
@@ -303,7 +463,7 @@ Check out East Austin! If not visited already:
 [[-New Nespaper!-->Newspaper3]]
 
 
-:: Bike1 {"position":"675,425","size":"100,100"}
+:: Bike1 {"position":"700,350","size":"100,100"}
 You:
 (We haven’t used our bikes in a while.)
 - 
@@ -328,7 +488,7 @@ Check out East Austin! If not visited already:
 
 
 
-:: Bike2 {"position":"525,1050","size":"100,100"}
+:: Bike2 {"position":"500,975","size":"100,100"}
 You:
 “Mom, have you seen my bike?”
 -
@@ -364,7 +524,7 @@ Check out Lakeway! If not visited already:
 [[-New Nespaper!-->Newspaper3]]
 
 
-:: Bus {"position":"525,900","size":"100,100"}
+:: Bus {"position":"1650,225","size":"100,100"}
 You:
 (I am way too tired to bike over.)
 -
@@ -401,10 +561,7 @@ You:
 -
 You spend the rest of the evening at Beverly’s house. You try to have fun, but don’t feel better for the rest of the night. Your Mom picks you up, and when you get home, you collapse on your bed with a fever. 
 -
-Check out Lakeway! If not visited already:
-[[EA POV (-) ->TMI-LW-LWPOV]]
 
-[[-New Nespaper!-->Newspaper3]]
 
 
 :: Candles {"position":"325,975","size":"100,100"}
@@ -456,7 +613,7 @@ Check out East Austin! If not visited already:
 [[-New Nespaper!-->Newspaper3]]
 
 
-:: Drive1 {"position":"675,350","size":"100,100"}
+:: Drive1 {"position":"1375,75","size":"100,100"}
 You:
 (If we take the car, I can go to the store after.)
 -
@@ -471,13 +628,22 @@ Liam and Sam:
 You round them up into the car and drive to the park, where the kids run around and play together. You sit down on a bench and watch them.
 -
 Check out East Austin! If not visited already:
-[[EA POV(+) ->AGAEA-EAPov]]
-
-[[-New Nespaper!-->Newspaper2]]
 
 
 
-:: Flowers {"position":"325,1050","size":"100,100"}
+
+:: Endings! {"position":"550,2175","size":"100,100"}
+Possible endings:
+
+[[LW and EA stay the same (n) -> neutral]]
+
+[[EA GETS WORSE- LW stays the same EA(-) and LW(n/+) -> BadEA]]
+
+[[EA GETS GENTRIFIED LW STAYS THE SAME EA(+) and LW(n/-) ->Gentrification ednisfs]]
+
+
+
+:: Flowers {"position":"1525,225","size":"100,100"}
 You:
 (She has mentioned wanting to start a flower garden before.)
 You:
@@ -526,10 +692,24 @@ Lisa:
 “To be fair, East Austin does get the short end of the stick when it comes to green spaces.”
 -
 
-Check out East Austin! If not visited already:
-[[EA POV (-) ->TMI-EA-EAPov]]
 
-[[-New Nespaper!-->Newspaper3]]
+
+
+:: Gentrification ednisfs {"position":"400,2300","size":"100,100"}
+“Taking a look at Austin today, many changes have been made throughout the years, which have affected Lakeway and East Austin. 
+    -
+    “Lakeway continues to thrive, with more greenspaces and areas for locals to go out and enjoy the scenery, which has been shown to improve mental health and decrease stress.”
+    -
+    “In East Austin, what they first thought would be major improvements at first have become more of a detriment to the local people. With the increase in greenspaces residents health has improved greatly, except now the area has become gentrified, rising costs and driving out previous locals who can no longer afford to live in the area.”
+    -
+    “Over the years environmental injustice has been linked to historical segregation, redlining and has shaped the distribution of the Austin communities we know today.“
+    -
+    “Individuals who physically live on “the wrong side of the tracks” are subjected to elevated environmental health threats and more than their fair share of preventable diseases.”
+    -
+    “All people should have the right to equal protection and enforcement of environmental laws regardless of race or income.”
+    -
+    “America is segregated, and so is pollution” - Robert Bullard on Environmental Justice”.
+
 
 
 :: Join {"position":"700,900","size":"100,100"}
@@ -547,7 +727,7 @@ Check out East Austin! If not visited already:
 [[-New Nespaper!-->Newspaper3]]
 
 
-:: Leave {"position":"525,425","size":"100,100"}
+:: Leave {"position":"500,450","size":"100,100"}
 You:
 (The smell is just unbearable. I should’ve just stayed at home.)
 -
@@ -596,7 +776,7 @@ Check out East Austin! If not visited already:
 [[-New Nespaper!-->Newspaper4]]
 
 
-:: Left Path {"position":"325,325","size":"100,100"}
+:: Left Path {"position":"325,350","size":"100,100"}
 You: 
 “Let’s go down the left path!”
 -
@@ -611,7 +791,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Look at it {"position":"425,575","size":"100,100"}
+:: Look at it {"position":"325,550","size":"100,100"}
 You: 
 “It’s a Golden Cheek Warbler!”
 -
@@ -767,7 +947,7 @@ Check out East Austin! If not visited already:
 [[-New Nespaper!-->Newspaper4]]
 
 
-:: Middle Path {"position":"325,400","size":"100,100"}
+:: Middle Path {"position":"1250,75","size":"100,100"}
 You: 
 “Let’s go down the middle path!”. 
 -
@@ -778,11 +958,11 @@ Liam:
 -
 Your youngest points to a bird in a tree.
 -
-[[Look at it. ->Look at it]]
 
 
 
-:: Music1 {"position":"875,475","size":"100,100"}
+
+:: Music1 {"position":"875,425","size":"100,100"}
 You:
 (I think I’ll just enjoy nature for a bit.)
 -
@@ -810,10 +990,58 @@ Where would you like to go?
 
 
 :: NECS-EAPov {"position":"500,1800","size":"100,100"}
+You and Kim are walking to the park to take some pictures of birds for a project.
+-
+Kim:
+“Jesus, it’s so hot out here! What did the temperature say?”
+-
+You:
+“Supposed to reach 94 in an hour.”
+-
+Kim:
+“Ughhhh.”
+-
+You:
+“Let’s take a rest.”
+-
+Kim:
+“Yes, please, I feel like I’m about to pass out.”
+-
+You look around for someplace nearby to sit.
+-
+Where should we sit?
+
+[[Bus stop bench -> busBench]] - [[Small tree on the side of the street -> smallTree]]
 
 
 
 :: NECS-LWPOV {"position":"375,1800","size":"100,100"}
+Your kids come running into the kitchen.
+-
+Liam:
+“Mom! Mom!”
+-
+You:
+“What is it, you two?”
+-
+Sam:
+“It’s so hooooot! Can we please do something?”
+-
+You:
+“Hmmm. I’m not sure. It’s hot today guys, we need to conserve energy on days like these.”
+-
+Husband:
+“Well that new power plant just got put across town, my coworker said he hasn’t had to pay any more on hot days.”
+-
+Liam:
+“See, Mom! C’mon! Pleaseeee?”
+-
+You:
+(Hmm. Maybe they do have a point.)
+-
+What should you do?
+-
+[[Family Video Game Night -> VideoGame]] - [[Indoor Movie Night -> Movie]]
 
 
 
@@ -877,7 +1105,7 @@ Check out Lakeway! If not visited already:
 [[-New Nespaper!-->Newspaper3]]
 
 
-:: Read1 {"position":"875,325","size":"100,100"}
+:: Read1 {"position":"1525,100","size":"100,100"}
 You:
 (I know I should study… but I’ve been wanting to start this book for a while…)
 -
@@ -886,14 +1114,10 @@ You take out the book and start reading. As you read, a Fiery Skipper lands on y
 You:
 (I should come here more often!)
 -
-Check out LW! If not visited already:
-[[LW POV(n)->AGAEA-LWPOV]]
-
-[[-New Nespaper!-->Newspaper2]]
 
 
 
-:: Right Path {"position":"325,475","size":"100,100"}
+:: Right Path {"position":"325,425","size":"100,100"}
 You: 
 “Let’s go down the right path!”. 
 -
@@ -916,10 +1140,78 @@ Where would you like to go?
 
 
 :: SS-EAPov {"position":"775,1800","size":"100,100"}
+Kim:
+“Ok, what’s the last thing we need to do?”
+-
+Beverly scrolls on her laptop. 
+-
+Beverly:
+“I think we just need to find some photos. I’m sure we can find some online.”
+-
+You:
+“Wait, I think I might have some pictures.”
+-
+You take out your phone and look through your camera roll.
+-
+You:
+“I was walking by some shrubland, and I saw the bird we are presenting on.”
+-
+You find the photos.
+-
+You:
+“So, I took a few photos.”
+-
+You show them the photos.
+-
+Beverly:
+“These look good!”
+-
+Kim:
+“We still haven't decided on what fact we should present.”
+-
+Beverly:
+“What are the options again?”
+-
+Kim:
+“The Black-capped Vireo is the only vireo that shows sexual dimorphism, where the male and female look different. And.”
+-
+Kim:
+“In most Black-capped Vireo populations, males greatly outnumber females, but the reason is not known.”
+-
+Beverly:
+“Hmm. Which one should we choose?”
+
+[[Sexual Dimorphism -> present]] - [[Male populations -> present]]
 
 
 
 :: SS-LWPOV {"position":"650,1800","size":"100,100"}
+Your kids come running into the kitchen.
+-
+Liam:
+“Mom! Mom!”
+-
+You:
+“What is it, you two?”
+-
+Sam:
+“It’s so hooooot! Can we please do something?”
+-
+You:
+“Hmmm. I’m not sure. It’s hot today guys, we need to conserve energy on days like these.”
+-
+Husband:
+“Well that new power plant just got put across town, my coworker said he hasn’t had to pay any more on hot days.”
+-
+Liam:
+“See, Mom! C’mon! Pleaseeee?”
+-
+You:
+(Hmm. Maybe they do have a point.)
+-
+What should we do?
+[[Use the pool -> pool]] - [[Water balloon fight -> balloon]]
+
 
 
 
@@ -948,7 +1240,7 @@ News reporter:
 
 
 
-:: Stay {"position":"525,350","size":"100,100"}
+:: Stay {"position":"500,350","size":"100,100"}
 You:
 “Let’s just stay.”
 -
@@ -975,7 +1267,7 @@ Check out LW POV:
 
 
 
-:: Stay Home {"position":"525,975","size":"100,100"}
+:: Stay Home {"position":"500,900","size":"100,100"}
 You take out your phone and text Beverly. 
 -
 You:
@@ -1044,11 +1336,11 @@ You sigh.
 You:
 “It’s okay, I’ll figure it out.” 
 -
-You check your phone. It’ll take 30 minutes if you take the bus or 20 minutes if you bike.
+You check your phone. It’ll take 20 minutes if you bike.
 -
 What do you want to do?
 
-[[Bus ->Bus]] - [[Bike2->Bike2]] -  [[Stay Home->Stay Home]]
+[[Bike2->Bike2]] -  [[Stay Home->Stay Home]]
 
 
 :: TMI-LW-LWPOV {"position":"400,825","size":"100,100"}
@@ -1058,17 +1350,17 @@ Husband:
 You:
 “Yes, sorry. I just can’t decide what to bring.”
 -
-In front of you is a bottle of wine, a nice set of candles, and ready-to-plant flowers. 
+In front of you is a bottle of wine, and a nice set of candles.
 -
 Husband:
 “Just pick one. She’s your friend, I’m sure she’ll like anything.”
 -
 What should I bring?
 
-[[Wine->Wine]] - [[Candles->Candles]] -  [[Flowers->Flowers]]
+[[Wine->Wine]] - [[Candles->Candles]] 
 
 
-:: Walk1 {"position":"675,500","size":"100,100"}
+:: Walk1 {"position":"700,425","size":"100,100"}
 You:
 (The park is really close by, we can just walk.)
 -
@@ -1137,7 +1429,7 @@ Check out East Austin! If not visited already:
 [[-New Nespaper!-->Newspaper3]]
 
 
-:: Write1 {"position":"875,400","size":"100,100"}
+:: Write1 {"position":"875,350","size":"100,100"}
 You:
 (I did come here to study. I should work on the short story I need to write.)
 -
