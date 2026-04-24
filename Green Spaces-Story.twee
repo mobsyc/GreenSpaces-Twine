@@ -12,6 +12,176 @@ Green Spaces
 }
 
 
+:: \ Awake {"position":"525,1500","size":"100,100"}
+You find the will to get up and ready for school. You walk downstairs to your mom in the kitchen, drinking a cup of coffee. She looks a little surprised to see you. 
+-
+Mom:
+“Good morning. You ready?”
+-
+You take a Poptart and throw it into the toaster. 
+-
+You:
+“Right, after this.”
+-
+Once the Poptart is done, you leave for school. You drive past the hazardous waste facility.
+-
+You:
+(I am so happy I didn’t have to deal with walking past that today.)
+-
+You finally arrive at school and kiss your mom goodbye.  You make your way to first period, where you see Beverly. 
+-
+You:
+“Morning.”
+-
+Beverly:
+“Goood morning.”
+-
+You look at the desk next to Beverly and nod your head at it.
+-
+You:
+“Where’s Kim?”
+-
+Beverly:
+“She went home.”
+-
+Beverly:
+“She wasn’t feeling well, so she went to the nurse.”
+-
+Beverly:
+“Apparently, it's because she walks by that waste place all the time.”
+-
+Beverly:
+“A lot of people are getting sick because the air quality is so bad now.”
+-
+You:
+(Thank god Mom took me to school today. I might have to start waking up earlier now.)
+-
+
+Check out  Lakeway! If not visited already:
+[[LW POV (-) ->YNN-LW-LWPOV]]
+
+[[-New Nespaper!-->Newspaper4]]
+
+
+
+:: \ EAChant {"position":"850,1400","size":"100,100"}
+The chanting becomes overpowering. They stop as the board members briefly congregate before turning back to the residents. 
+-
+Board Member:
+“We hear your concerns. Unfortunately, the decision has already been made, and there’s nothing we can do about it. This town hall meeting is adjourned.”
+-
+The crowd groans. 
+-
+Beverly:
+“Well…hey, at least we tried. Maybe next time.”
+-
+Check out  Lakeway! If not visited already:
+[[LW POV (-) ->YNN-EA-LWPOV]]
+
+[[-New Nespaper!-->Newspaper4]]
+
+
+:: \ LWChant {"position":"700,1400","size":"100,100"}
+The chanting becomes overpowering. They stop as the board members briefly congregate before turning back to the residents. 
+-
+Board Member:
+“After hearing your concerns, we’ve decided to reconsider building the waste facility here in Lakeway and look at other locations closer to East Austin.”
+-
+The crowd cheers. Your neighborhood will remain clean, thanks to your efforts.
+-
+Check out East Austin! If not visited already:
+[[EA POV (-) ->YNN-EA-EAPov]]
+
+[[-New Nespaper!-->Newspaper4]]
+
+
+:: \ Snooze {"position":"525,1425","size":"100,100"}
+You double-click the power button and go back to sleep. Some time passes, and you hear your mom open your door. 
+-
+Mom:
+“Hey, wake up. Didn’t you want me to take you to school?”
+-
+She turns on the light.
+-
+You:
+“What time is it?”
+-
+Mom:
+“Time for you to wake up. I have to go to work.”
+-
+You:
+“But, you said you would take me.”
+-
+Mom:
+“And you said you would wake up early.”
+-
+She rushes over and kisses you on the forehead. Right before she leaves, she pulls the covers off of you. 
+-
+Mom:
+“C’mon, get up.”
+-
+She leaves your room, and you hear her leave. You finally get up and leave to go to school. 
+-
+You have to walk by the hazardous waste facility again. It always smells really bad near it.
+-
+You finally arrive at school.
+-
+You:
+(I feel totally exhausted. I can barely breathe. I should go see the nurse.)
+-
+You walk to the nurse's office and explain your symptoms. She listens to your breathing.
+-
+Nurse:
+“Your lungs don’t sound the best. Do you live with someone who smokes, or do you smoke? I’m not here to judge you, so please answer truthfully.”
+-
+You shake your head. 
+-
+Nurse:
+“Have you ever had issues with your lungs before?”
+-
+You:
+“No.”
+-
+Nurse:
+“Well, then what did you do before coming here?”
+-
+You:
+“Nothing, I just walked to school.”
+-
+Nurse:
+“Do you happen to live near that hazardous waste facility?”
+-
+You:
+“I do.”
+-
+The nurse sighs.
+-
+Nurse:
+“You might want to go see a doctor soon.”
+-
+Nurse:
+“I’ve had a lot of kids coming in with respiratory issues ever since that opened.” 
+-
+The nurse gets up and grabs something.
+-
+Nurse:
+“Here, use this for now.”
+-
+The nurse hands you an inhaler and an office slip. 
+-
+Nurse:
+“Don’t be too late to first period.”
+-
+You:
+“Thank you.”
+-
+
+Check out Lakeway! If not visited already:
+[[LW POV (-) ->YNN-LW-LWPOV]]
+
+[[-New Nespaper!-->Newspaper4]]
+
+
 :: AGA1 {"position":"500,175","size":"100,100"}
 Where would you like to go?
 [[Lakeway POV (+)->AGALW-LWPOV]]
@@ -26,7 +196,7 @@ Where would you like to go?
 
 
 
-:: AGAEA-EAPov {"position":"775,275","size":"100,100"}
+:: AGAEA-EAPov {"position":"800,275","size":"100,100"}
 “God, I cannot focus!”
 -
 You drop your pencil.
@@ -44,7 +214,7 @@ You take out your phone to check. There is a new park, and its really close by. 
 [[Read ->Read1]] - [[Write->Write1]] -  [[Listen to Music->Music1]]
 
 
-:: AGAEA-LWPOV {"position":"650,275","size":"100,100"}
+:: AGAEA-LWPOV {"position":"675,275","size":"100,100"}
 Husband:
 “Don’t forget it’s your turn to take the kids to the park this week.”
 -
@@ -394,7 +564,7 @@ Check out LW POV:
 
 
 
-:: LeaveIt {"position":"350,1450","size":"100,100"}
+:: LeaveIt {"position":"325,1475","size":"100,100"}
 You:
 (It’s okay if they don’t do it every once in a while.)
 -
@@ -441,7 +611,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Look at it {"position":"325,625","size":"100,100"}
+:: Look at it {"position":"425,575","size":"100,100"}
 You: 
 “It’s a Golden Cheek Warbler!”
 -
@@ -561,7 +731,7 @@ What would you do?
 [[Join->Join]] - [[Abstain->Abstain]]
 
 
-:: Make {"position":"350,1400","size":"100,100"}
+:: Make {"position":"325,1400","size":"100,100"}
 “Boys, I thought I told you to recycle stuff like this.”
 -
 You point to the paper and cans.
@@ -612,7 +782,7 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Music1 {"position":"850,475","size":"100,100"}
+:: Music1 {"position":"875,475","size":"100,100"}
 You:
 (I think I’ll just enjoy nature for a bit.)
 -
@@ -633,7 +803,21 @@ Check out East Austin! If not visited already:
 
 
 
-:: Newspaper1 {"position":"600,175","size":"100,100"}
+:: NECS {"position":"475,1700","size":"100,100"}
+Where would you like to go?
+[[Lakeway POV (+)->NECS-LWPOV]]
+[[East Austin POV (-) ->NECS-EAPov]]
+
+
+:: NECS-EAPov {"position":"500,1800","size":"100,100"}
+
+
+
+:: NECS-LWPOV {"position":"375,1800","size":"100,100"}
+
+
+
+:: Newspaper1 {"position":"600,150","size":"100,100"}
 A Greener Austin! - 1
 City buys Lakeway Ranch that will be used to expand preserve for the golden-cheeked warbler; remaining funds to be used to create a new grassy lawn in East Austin
 -
@@ -644,7 +828,7 @@ What headline do you choose?
 [[A Greener Austin 1->AGA1]] - [[A Greener Austin 2->AGA2]]
 
 
-:: Newspaper2 {"position":"600,725","size":"100,100"}
+:: Newspaper2 {"position":"600,700","size":"100,100"}
 Tesla’s Moving In 
 Local East Austin parks to be used for new Tesla factories after Musk’s billion-dollar deal; City buys land in Lakeway 
 
@@ -655,7 +839,7 @@ What headline do you choose?
 [[Tesla's Moving In->TMI]] - [[MuskOut->MO]]
 
 
-:: Newspaper3 {"position":"600,1225","size":"100,100"}
+:: Newspaper3 {"position":"600,1200","size":"100,100"}
 Your New Neighbor LW - 1
 City officials approve plan for a Hazardous waste facility to be built in East Austin
 
@@ -667,8 +851,15 @@ What headline do you choose?
 [[TYour New Neighbor 1->YNN1]] - [[Your New Neighbor1->YNN2]]
 
 
-:: Newspaper4 {"position":"550,1625","size":"100,100"}
+:: Newspaper4 {"position":"575,1675","size":"100,100"}
+Newer Energy, Cooler Summer LW
+New energy power plant to be built over shrubland, a habitat for the endangered Black-capped Vireo songbird
 
+Shrubland Saved! EA
+City blocks the construction of an energy power plant, habitat for the endangered Black-capped Vireo songbird saved
+
+What headline do you choose?
+[[Newer Energy, Cooler Summer->NECS]] - [[Shrubland Saved!->SS]]
 
 
 :: No1 {"position":"850,975","size":"100,100"}
@@ -686,7 +877,7 @@ Check out Lakeway! If not visited already:
 [[-New Nespaper!-->Newspaper3]]
 
 
-:: Read1 {"position":"850,325","size":"100,100"}
+:: Read1 {"position":"875,325","size":"100,100"}
 You:
 (I know I should study… but I’ve been wanting to start this book for a while…)
 -
@@ -718,7 +909,21 @@ Your youngest points to a bird in a tree.
 
 
 
-:: Start {"position":"600,75","size":"100,100"}
+:: SS {"position":"675,1700","size":"100,100"}
+Where would you like to go?
+[[Lakeway POV (n)->SS-LWPOV]]
+[[East Austin POV (+) ->SS-EAPov]]
+
+
+:: SS-EAPov {"position":"775,1800","size":"100,100"}
+
+
+
+:: SS-LWPOV {"position":"650,1800","size":"100,100"}
+
+
+
+:: Start {"position":"600,50","size":"100,100"}
 News reporter:
 “Right now, I am standing in East Austin, known for its diverse and rich culture, shaped by the Black and Hispanic communities."
 -
@@ -825,7 +1030,7 @@ Where would you like to go?
 
 
 
-:: TMI-EA-EAPov {"position":"550,825","size":"100,100"}
+:: TMI-EA-EAPov {"position":"525,825","size":"100,100"}
 You and Beverly made plans to hang out this weekend. You walk downstairs to your Mom in the kitchen.
 -
 You:
@@ -932,7 +1137,7 @@ Check out East Austin! If not visited already:
 [[-New Nespaper!-->Newspaper3]]
 
 
-:: Write1 {"position":"850,400","size":"100,100"}
+:: Write1 {"position":"875,400","size":"100,100"}
 You:
 (I did come here to study. I should work on the short story I need to write.)
 -
@@ -948,19 +1153,109 @@ Check out East Austin! If not visited already:
 
 
 
-:: YNN-EA-EAPov {"position":"650,1325","size":"100,100"}
+:: YNN-EA-EAPov {"position":"800,1325","size":"100,100"}
+the front.
+-
+You: 
+“Hey, sorry I’m late!”
+-
+Beverly: 
+“Took you long enough, did you bring the signs?”
+-
+You:
+“Right here.”
+-
+Beverly:
+“Great. Hopefully, now those idiots will actually listen to us.”
+-
+You:
+“Maybe if they didn’t change their original decision to put it in Lakeway, we wouldn’t be in this mess in the first place!”
+-
+Beverly:
+“Too late to cry about it. We might not be able to fight against Lakeway, but we have to keep it out of our neighborhood. ”
+-
+You both raise your signs and chant.
+-
+What are they chanting?
+
+[[“Don’t change your mind, East Austin can’t be left behind!” -> EAChant]] 
+[[“Lakeway is not your friend, don’t let your knee bend!" -> EAChant]]
 
 
 
-:: YNN-EA-LWPOV {"position":"750,1325","size":"100,100"}
+:: YNN-EA-LWPOV {"position":"675,1325","size":"100,100"}
+You walk into the town hall meeting planned for today. You could already hear the residents protesting from the hallway.
+-
+You: 
+“What’s going on?”
+-
+Resident: 
+“They’re planning to build a waste facility here in Lakeway. A big one too.”
+-
+You:
+“What? Really?”
+-
+Resident:
+“Yeah, that's why we’re all here.”
+-
+You:
+“Don’t we pay them enough already? Why should we have to live with that disgusting waste? I don’t want my kids near that.”
+-
+Resident:
+“Exactly. That’s why we are here to stop them.”
+_
+You:
+“How do you know they will listen to us?”
+-
+Resident:
+“I know a few people on the board, too. So I put in a good word.”
+-
+The crowd begins to chant.
+-
+What are they chanting?
+
+[[“No way to waste!” -> LWChant]] - [[“Your waste, our money!” -> LWChant]]
+
 
 
 
 :: YNN-LW-EAPov {"position":"525,1325","size":"100,100"}
+You:
+“Mommmmmm.”
+-
+You hug your mom.
+-
+Mom:
+“Awwww. What do you want?”
+-
+You:
+“Can you please take me to school tomorrow?”
+-
+Mom:
+“Why? You’ve never had an issue walking before.”
+-
+You:
+“I want to avoid walking by the hazardous waste thing, but it’s impossible.”
+-
+Mom:
+“I can take you, but you have to be ready to leave early. Like when I used to take you.”
+-
+You:
+(Hmm.)
+-
+You:
+“Deal.”
+-
+You walk back to your room and get in bed. You set your alarm and fall asleep.
+-
+It’s now morning and you hear you alarm go off. 
+-
+What do you do?
+[[Hit Snooze -> Snooze]] - [[Wake Up -> Awake]] 
 
 
 
-:: YNN-LW-LWPOV {"position":"425,1325","size":"100,100"}
+:: YNN-LW-LWPOV {"position":"400,1325","size":"100,100"}
 You:
 “Trash day. Everyone, go get the trash!”
 -
